@@ -1,12 +1,15 @@
 # calculator-app
-simple calculator to perform basic mathematical operations.
+simple calculator android app to perform basic mathematical operations.
 
 <ol>
-    <li>Performs simple arithmetic calculation</li>
+    <li>Performs simple arithmetic calculations like addition,subtraction,multiplication and division</li>
     <li>Light weight in size</li>
     <li>Comprehensive Code</li>
-    <li>Good userinterface</li>
+    <li>Good userinterface and userfriendly</li>
 </ol>
+
+
+
 
 HOW TO CONTRIBUTE
 
